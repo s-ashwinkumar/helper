@@ -1,8 +1,7 @@
 # This is Git's per-user configuration file.
 [user]
-# Please adapt and uncomment the following lines:
-#	name = Ashwin Subramanian
-#	email = AshwinSubramanian@dhcp-10-102.corp.ooma.com
+	name = Ashwin
+	email = s.ashwinkumar2490@gmail.com
 [color]
     branch = auto
     diff = auto
